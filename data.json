@@ -2,31 +2,31 @@
   "htop": {
     "name": "htop",
     "desc": "Process monitor",
-    "url": "https://github.com/lane3434/Winux-packages/Application/htop.exe"
+    "url": "https://github.com/lane3434/Winux-packages/Applications/htop.exe"
   },
   "jq": {
     "name": "jq",
     "desc": "JSON processor and parser",
-    "url": "https://github.com/lane3434/Winux-packages/Application/jq.exe"
+    "url": "https://github.com/lane3434/Winux-packages/Applications/jq.exe"
   },
   "nano": {
     "name": "nano",
     "desc": "Simple text editor",
-    "url": "https://github.com/lane3434/Winux-packages/Application/nano.exe"
+    "url": "https://github.com/lane3434/Winux-packages/Applications/nano.exe"
   },
   "neofetch": {
     "name": "neofetch",
     "desc": "Display system info with style",
-    "url": "https://github.com/lane3434/Winux-packages/Application/neofetch.exe"
+    "url": "https://github.com/lane3434/Winux-packages/Applications/neofetch.exe"
   },
   "ntop": {
     "name": "ntop",
     "desc": "Network usage monitor (graphical)",
-    "url": "https://github.com/lane3434/Winux-packages/Application/ntop.exe"
+    "url": "https://github.com/lane3434/Winux-packages/Applications/ntop.exe"
   },
   "wget": {
     "name": "wget",
     "desc": "Robust file downloader",
-    "url": "https://github.com/lane3434/Winux-packages/Application/wget.exe"
+    "url": "https://github.com/lane3434/Winux-packages/Applications/wget.exe"
   }
 }
