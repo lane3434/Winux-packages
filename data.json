@@ -1,0 +1,12 @@
+{
+  "nano": {
+    "name": "nano",
+    "desc": "Simple text editor",
+    "url": "https://github.com/lane3434/Winux-packages/Application/nano.exe"
+  },
+  "htop": {
+    "name": "htop",
+    "desc": "Process monitor",
+    "url": "https://github.com/lane3434/Winux-packages/Application/htop.exe"
+  }
+}
